@@ -411,3 +411,23 @@ Run packages in this order for a clean initial load:
 ---
 
 *Created as part of a Data Warehousing assignment — demonstrating SSIS ETL development with Microsoft SQL Server.*
+
+---
+
+## 👥 Team Members
+- [Mohamed Ashraf](https://github.com/moashraf18)
+- [Moamen Wael](https://github.com/MoamenWael04)
+
+## 🧑‍💻 Developed For
+
+IS313 Data Warehousing – Spring 2026
+Faculty of Computers and Artificial Intelligence - 
+Cairo University
+
+---
+
+## 📅 Last Updated
+
+02 May 2026
+
+---
